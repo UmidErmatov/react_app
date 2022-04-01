@@ -1,0 +1,14 @@
+{
+  "menus": {
+    "home": "Uy",
+    "posts": "Postlar",
+    "profile": "Profil",
+    "call": "Qo'ng'iroq"
+  },
+  "login": "Tizimga kirish",
+  "user": "Foydalanuvchi",
+  "logout": "Chiqish",
+  "lan": "Til",
+  "chat": "Chat",
+  "confirm_signout": "Tizimdan chiqishni istaysizmi?"
+}
